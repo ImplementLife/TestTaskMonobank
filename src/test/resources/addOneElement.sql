@@ -1,0 +1,2 @@
+DELETE FROM requests_pay;
+INSERT INTO requests_pay VALUES(1,'2021-02-20','1','PROCESSING');
